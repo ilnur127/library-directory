@@ -1,5 +1,5 @@
 # library-directory
-дизайн мобильной версии, по которой делался десктоп - https://www.figma.com/file/QnS0X000dhseY1HShpJfMy/Untitled?node-id=2%3A80
+Написан на Vue 3. дизайн мобильной версии, по которой делался десктоп - https://www.figma.com/file/QnS0X000dhseY1HShpJfMy/Untitled?node-id=2%3A80
 
 ## Project setup
 ```
